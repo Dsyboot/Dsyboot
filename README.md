@@ -10,6 +10,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img id="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Just+A+Boy;Python+Lover;Android+programmer" alt="Typing SVG" />
 </a>
+<br>
 <img id="dynamic-image" align='center' src='https://raw.githubusercontent.com/Dsyboot/Dsyboot/main/assets/cat.png' width='200'>
 </p>
 <br>
