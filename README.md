@@ -8,39 +8,10 @@
 <!-- Dynamic text changing -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img id="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student" alt="Typing SVG" />
+  <img id="typing-svg" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Just+A+Boy;Python+Lover;Android+programmer" alt="Typing SVG" />
 </a>
 <img id="dynamic-image" align='center' src='https://raw.githubusercontent.com/Dsyboot/Dsyboot/main/assets/cat.png' width='200'>
 </p>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const typingSvg = document.getElementById('typing-svg');
-    const dynamicImage = document.getElementById('dynamic-image');
-
-    // Array of phrases and colors
-    const phrases = [
-      { lines: "Computer+Engineering+Student", color: "00FF00" },
-      { lines: "Just+a+boy", color: "00FF00" },
-      { lines: "Determination", color: "FF0000" },
-      { lines: "Python+Lover", color: "00FF00" }
-    ];
-
-    let currentIndex = 1;
-
-    // Function to update the SVG based on the current phrase and color
-    function updateTypingSvg() {
-      const { lines, color } = phrases[currentIndex];
-      typingSvg.src = `https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=${color}&size=25&center=true&vCenter=true&width=600&height=100&lines=${lines};`
-
-      // Move to the next phrase
-      currentIndex = (currentIndex + 1) % phrases.length;
-    }
-    
-    // Update every 5.5 seconds
-    setInterval(updateTypingSvg, 5500);
-  });
-</script>
 <br>
 
 <!-- Information section -->
