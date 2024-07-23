@@ -18,9 +18,11 @@
 <!-- Information section -->
 <h2 align="center">Sobre mí</h2>
 Soy un estudiante de la carrera de ingeniería en computación, de la universidad nacional de ingeniería. He empezado a programar desde el 2019, y he continuado en este mundo de la informática y su poder por medio de los lenguajes.
-
+<br>
+<br>
 Programo por aprender, y por qué me resulta interesante y divertido hacerlo, es como un hobby, pero a la vez es parte de mi vida, es lo que me motiva a seguir en esta carrera universitaria, y en esta vida.
-
+<br>
+<br>
 Eventualmente suelo hacer algunos proyectos públicos y otros simplemente son personales, casi todos se encuentran en esta plataforma, pero eventualmente los tengo en privados para después liberarlos al público.
 
 <!-- Languages section -->
